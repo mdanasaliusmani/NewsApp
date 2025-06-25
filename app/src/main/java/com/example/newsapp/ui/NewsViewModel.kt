@@ -8,7 +8,6 @@ import com.example.newsapp.repository.NewsRepository
 import com.example.newsapp.util.Resource
 import kotlinx.coroutines.launch
 import retrofit2.Response
-import java.util.Locale.IsoCountryCode
 
 class NewsViewModel(
     val newsRepository: NewsRepository
